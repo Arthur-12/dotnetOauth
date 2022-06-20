@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJjI1BiiTVI6vTbnjfKgu6/nkNxiipmkguSxKv49y0d8T+/8shlqS6gr9YmNTP4oHDvVJD3Iu7ZwL0UPyHur7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kenec\\OneDrive\\Desktop\\kode\\Alphadots\\new new\\az204-auth\\az204-auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenec\\.nuget\\packages\\microsoft.identity.client\\4.44.0\\microsoft.identity.client.4.44.0.nupkg.sha512"
+  ],
+  "logs": []
+}
